@@ -21,21 +21,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_SConscr
 +         "extract/js/src/jit/x86-shared/Disassembler-x86-shared.cpp",
 +     ])
 + 
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_SConscript
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src0.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src0.cpp	(nonexistent)
@@ -100,21 +85,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src0.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src1.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src1.cpp	(nonexistent)
@@ -179,21 +149,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src1.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src10.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src10.cpp	(nonexistent)
@@ -258,21 +213,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src10.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src11.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src11.cpp	(nonexistent)
@@ -337,21 +277,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src11.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src12.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src12.cpp	(nonexistent)
@@ -416,21 +341,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src12.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src13.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src13.cpp	(nonexistent)
@@ -495,21 +405,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src13.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src14.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src14.cpp	(nonexistent)
@@ -574,21 +469,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src14.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src15.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src15.cpp	(nonexistent)
@@ -653,21 +533,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src15.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src16.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src16.cpp	(nonexistent)
@@ -732,21 +597,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src16.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src17.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src17.cpp	(nonexistent)
@@ -811,21 +661,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src17.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src18.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src18.cpp	(nonexistent)
@@ -890,21 +725,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src18.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src19.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src19.cpp	(nonexistent)
@@ -969,21 +789,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src19.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src2.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src2.cpp	(nonexistent)
@@ -1048,21 +853,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src2.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src20.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src20.cpp	(nonexistent)
@@ -1127,21 +917,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src20.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src21.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src21.cpp	(nonexistent)
@@ -1206,21 +981,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src21.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src22.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src22.cpp	(nonexistent)
@@ -1285,21 +1045,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src22.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src23.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src23.cpp	(nonexistent)
@@ -1364,21 +1109,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src23.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src24.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src24.cpp	(nonexistent)
@@ -1443,21 +1173,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src24.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src25.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src25.cpp	(nonexistent)
@@ -1522,21 +1237,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src25.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src26.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src26.cpp	(nonexistent)
@@ -1601,21 +1301,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src26.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src27.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src27.cpp	(nonexistent)
@@ -1680,21 +1365,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src27.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src28.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src28.cpp	(nonexistent)
@@ -1759,21 +1429,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src28.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src29.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src29.cpp	(nonexistent)
@@ -1838,21 +1493,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src29.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src3.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src3.cpp	(nonexistent)
@@ -1917,21 +1557,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src3.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src30.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src30.cpp	(nonexistent)
@@ -1996,21 +1621,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src30.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src31.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src31.cpp	(nonexistent)
@@ -2075,21 +1685,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src31.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src32.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src32.cpp	(nonexistent)
@@ -2154,21 +1749,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src32.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src33.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src33.cpp	(nonexistent)
@@ -2215,21 +1795,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src33.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src4.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src4.cpp	(nonexistent)
@@ -2294,21 +1859,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src4.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src5.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src5.cpp	(nonexistent)
@@ -2373,21 +1923,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src5.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src6.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src6.cpp	(nonexistent)
@@ -2452,21 +1987,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src6.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src7.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src7.cpp	(nonexistent)
@@ -2531,21 +2051,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src7.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src8.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src8.cpp	(nonexistent)
@@ -2610,21 +2115,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src8.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src9.cpp
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src9.cpp	(nonexistent)
@@ -2689,21 +2179,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#undef INITGUID
 ++#endif
 +\ No newline at end of file
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_Unified__cpp__js__src9.cpp
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_js-confdefs.h
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_js-confdefs.h	(nonexistent)
@@ -2800,21 +2275,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#include "js/RequiredDefines.h"
 ++
 ++#endif /* js_confdefs_h */
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_build_js-confdefs.h
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_include_js-config.h
 ===================================================================
 --- databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_include_js-config.h	(nonexistent)
@@ -2882,21 +2342,6 @@ Index: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platfor
 ++#define MOZJS_MINOR_VERSION 9
 ++
 ++#endif /* js_config_h */
-
-Property changes on: databases/mongodb40/files/aarch64/patch-src_third__party_mozjs-45_platform_aarch64_freebsd_include_js-config.h
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/patch-SConstruct
 ===================================================================
 --- databases/mongodb40/files/patch-SConstruct	(nonexistent)
@@ -2934,21 +2379,6 @@ Index: databases/mongodb40/files/patch-SConstruct
 ++    if env.TargetOSIs('linux', 'darwin', 'solaris', 'freebsd'):
 +         if not has_option("disable-warnings-as-errors"):
 +             env.Append( CCFLAGS=["-Werror"] )
-
-Property changes on: databases/mongodb40/files/patch-SConstruct
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/patch-asio-libc++7
 ===================================================================
 --- databases/mongodb40/files/patch-asio-libc++7	(nonexistent)
@@ -2969,21 +2399,6 @@ Index: databases/mongodb40/files/patch-asio-libc++7
 + #     define ASIO_HAS_STD_EXPERIMENTAL_STRING_VIEW 1
 + #    endif // __has_include(<experimental/string_view>)
 + #   endif // (__cplusplus >= 201402)
-
-Property changes on: databases/mongodb40/files/patch-asio-libc++7
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/patch-boost-1.67
 ===================================================================
 --- databases/mongodb40/files/patch-boost-1.67	(nonexistent)
@@ -3014,21 +2429,6 @@ Index: databases/mongodb40/files/patch-boost-1.67
 + 
 + namespace YAML {
 + namespace detail {
-
-Property changes on: databases/mongodb40/files/patch-boost-1.67
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
 Index: databases/mongodb40/files/patch-rpm_mongod.conf
 ===================================================================
 --- databases/mongodb40/files/patch-rpm_mongod.conf	(nonexistent)
@@ -3059,18 +2459,3 @@ Index: databases/mongodb40/files/patch-rpm_mongod.conf
 +   timeZoneInfo: /usr/share/zoneinfo
 + 
 + # network interfaces
-
-Property changes on: databases/mongodb40/files/patch-rpm_mongod.conf
-___________________________________________________________________
-Added: fbsd:nokeywords
-## -0,0 +1 ##
-+yes
-\ No newline at end of property
-Added: svn:eol-style
-## -0,0 +1 ##
-+native
-\ No newline at end of property
-Added: svn:mime-type
-## -0,0 +1 ##
-+text/plain
-\ No newline at end of property
